@@ -1,0 +1,149 @@
+// HTML code 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subashini Mannuraj Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-primary font-sans">
+  <!-- Header Section -->
+  <header class="flex items-center justify-between p-8 shadow-md bg-secondary">
+    <!-- Name Section -->
+    <div class="text-3xl font-bold text-dark">
+      SUBASHINI MANNURAJ
+    </div>
+    <!-- Navigation Links -->
+    <nav>
+      <ul class="flex space-x-6 text-lg font-semibold">
+        <li><a href="#about" class="text-dark hover:text-accent">About</a></li>
+        <li><a href="#experience" class="text-dark hover:text-accent">Experience</a></li>
+        <li><a href="#projects" class="text-dark hover:text-accent">Projects</a></li>
+        <li><a href="#honours" class="text-dark hover:text-accent">Honours</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Section -->
+  <section class="flex items-center justify-center min-h-screen px-8 bg-muted" id="main">
+    <div class="text-center">
+      <p class="description">
+        Myself, a passionate engineer with an insatiable thirst for learning and a relentless drive to achieve goals. Committed to continuous personal and professional development to excel in the ever-evolving field of engineering.I possess a diverse skill set including expertise in C Programming, Python Programming, and Web Development (HTML, CSS, JavaScript). My proficiency extends to Excel, Content Writing, Data Science, and Distributed Ledger Technology (Ethereum). Additionally, I am skilled in Canva and Figma.
+
+        In terms of education, I completed my schooling at Swamy’s School, Porur, Chennai, from June 2008 to May 2022, achieving a Class 12 percentage of 90%. Currently, I am pursuing my degree at Sri Sai Ram Institute of Technology, West Tambaram, from October 2022 to May 31, 2026, with a PGPA of 8.55.
+
+I have participated in several workshops to enhance my skills, including the RISC - V VSD Squadron at IIT Madras, Data Analytics with Tableau at Anna University, Guindy, Cyber Workshop also at Anna University, Guindy, and UI/UX Designing with Ennoviq Educator.
+
+You can reach me at Wireless Station Road, Porur, Chennai 600 116. My phone number is 7 3 0505 6323, and my email address is subashini.mannuraj@gmail.com. 
+For professional networking, you can connect with me on LinkedIn: https://www.linkedin.com/in/subashini-mannuraj.
+ I am fluent in Tamil, English,French, and Hindi, and possess strong general skills such as Communication Skills, Leadership, Teamwork, and Flexibility.
+       </p>
+    </div>
+  </section>
+
+        <!-- Experience Section -->
+  <section id="experience" class="px-8 py-16 bg-primary">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-3xl font-bold text-dark mb-8">Experience</h2>
+      <!-- Experience List -->
+      <ul class="list-disc list-inside text-dark mb-8">
+        <li>National Scholarship Programme Influencers - Magic Member from My Institution</li>
+        <li>IEEE MEMBER with experience in volunteering events, project funds, and paper publishments</li>
+        <li>Created awareness to Sairam Vidyala CBSE School students about the Bureau of Indian Standards</li>
+        <li>Volunteered many activities in Unnat Bharat Abhiyan</li>
+        <li>IEEE Secretary - Women in Engineering</li>
+        <li>Class Representative (2022-2023)</li>
+        <li>Data Science Intern - Oasis Infotech</li>
+        <li>Web Development Intern - Codesoft</li>
+        <li>Machine Learning Intern - Prodigy Infotech</li>
+        <li>Cyber Security and Ethical Hacking - Rinex</li>
+      </ul>
+
+
+<!-- Projects Section -->
+<section id="projects" class="px-8 py-16 bg-muted">
+  <div class="max-w-4xl mx-auto">
+    <h2 class="text-3xl font-bold text-dark mb-8">Projects</h2>
+    <!-- Project List -->
+    <ul class="list-disc list-inside text-dark">
+      <li><strong>AI Enabled Marine Noise Mitigation</strong> - IDEATHON Project</li>
+      <li><strong>An Enhanced DLT Based Carbon Trading Platform</strong> - SOLVATHON Project</li>
+      <li><strong>Tackling the Challenge of Advanced CCTV Analysis Solution</strong> - KAVACH Cyber Hackathon</li>
+      <li><strong>Development of an Eye-Safe Laser Rangefinder</strong> - Defense Hackathon 2023</li>
+      <li><strong>Origami-Based Unfurlable and Electronically Steered L/P Band SAR Antenna for Small Satellite in LEO</strong> - Defense Hackathon 2022</li>
+      <li><strong>Adaptive Noise Cancellation for Sonars</strong> - MSME Women’s Hackathon</li>
+      <li><strong>Smart and Effective Real-Time Management Parking System Using ML and AR Navigation</strong> - QTUXATHON 24 Hrs Hackathon</li>
+      <li><strong>Design and Implementation of Hardware and Software Wireless Technologies</strong> - TOMATO Hackathon</li>
+      <li><strong>Speech to Text Transcription for Indian Languages</strong> - Smart India Hackathon</li>
+      <li><strong>App Based Solution to Identify and Solve Disease in Plants</strong> - Smart India Hackathon</li>
+      <li><strong>Participated in IEEE Xtreme 24 Hrs Hackathon</strong></li>
+    </ul>
+  </div>
+</section>
+</body>
+</html>
+  </div>
+  </section>
+
+  <!-- Honours Section -->
+  <section id="projects" class="px-8 py-16 bg-muted">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-3xl font-bold text-dark mb-8">Honours</h2>
+
+            <!-- Honours List -->
+    <ul class="list-disc list-inside text-dark">
+
+        <li><strong>Implementing a State-of-the-Art Desalination Plant with Carbon Offset Integration</strong> - For Govt of India funding project represented my college</li>
+        <li><strong>QTuxathon (24hrs intra-college hackathon)</strong> - Secured 1st place Championship with a cash prize of 5000</li>
+        <li><strong>UX Vertex (Figma)</strong> - Secured 2nd place with a cash prize of 1000 conducted by Panimalar Engineering College</li>
+        <li><strong>Standard Presentation</strong> - Secured Consolation with a cash prize of 250 conducted by Bureau of Indian Standards Club</li>
+        <li><strong>Pr0posal Solution</strong> - Secured 1st place with a cash prize of 1000 conducted by Bureau of Indian Standards</li>
+        <li><strong>SDG Ideathon Winner in Goal 14</strong> - Secured 1st place with a cash prize of 1000 conducted by Sri Sairam Group of Institutions</li>
+        <li><strong>SDG Solvathon Winner in Goal 13</strong> - Secured 3rd place with a cash prize of 1000 conducted by Sri Sairam Group of Institutions</li>
+        <li><strong>Standard Poster Presentation</strong> - Secured 2nd place with a cash prize of 750 conducted by Bureau of Indian Standards Club</li>
+        <li><strong>NPTEL Software Conceptual Design</strong> - Secured Elite Certification</li>
+      </ul>
+    </div>
+  </section>
+</body>
+</html>
+     
+// CSS code 
+
+/* styles.css */
+
+/* Color Palette */
+:root {
+    --color-primary: #f7e1d7; /* Background color for the main sections */
+    --color-secondary: #edafb8; /* Background color for the header */
+    --color-dark: #4a5759; /* Dark text color */
+    --color-muted: #dedbd2; /* Background color for sections */
+    --color-accent: #b0c4b1; /* Accent color for hover effects */
+  }
+  
+  /* General Styles */
+  body {
+    background-color: var(--color-primary);
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header */
+  header {
+    background-color: var(--color-secondary);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  header .text-dark {
+    color: var(--color-dark);
+  }
+  
+  header nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  
